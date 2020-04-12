@@ -5,11 +5,11 @@ Repo for COVID19 Italy's data analysis based on data from Dipartimento Protezion
 ## Fonti dati
 I dati sono in gran parte forniti dalla [pagina GitHub](https://github.com/pcm-dpc/COVID-19) della Presidenza del Consiglio dei Ministri - Dipartimento della Protezione Civile che si occupa di aggiornare i dati ogni giorno alle 18:30 ora italiana.
 
-Altri dati come la popolazione totale per regione, la quantità di posti letto in terapia intensiva per regione e la loro variazione sono presi da altri siti. (vedere Note)
+Altri dati come la popolazione totale per regione, la quantità di posti letto in terapia intensiva per regione e la loro variazione sono presi da altri siti. (vedere [note](#note))
 
 
 ## Analisi dati
-I dati qui forniti ed analizzati sono sotto forma di file .xlsx e suddivisi in fogli per regione.
+I dati qui forniti ed analizzati sono sotto forma di file excel .xlsx e suddivisi in fogli per regione.
 
 I dati vengono analizzati fornendo svariati grafici dello stesso formato per ogni regione, oltre a grafici totali dell'andamento nazionale (__non ancora__). I grafici ed i loro andamenti non vengono commentati per mancanza di esperienza in campo medico, statistico ed epidemiologico e per le conseguenze a cui analisi errate possono portare. 
 

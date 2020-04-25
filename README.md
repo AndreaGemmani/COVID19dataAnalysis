@@ -25,6 +25,8 @@ Vengono fornite fonti per la migliore lettura e comprensione dei dati mostrati n
 
 Per poter meglio interpreatare i dati qui raggruppati si consigliano letture e video in merito all'argomento.
 
+[Video di Abacaba](https://www.youtube.com/watch?v=LnQcbAKWkPE) sul **calcolo dei reali numeri del contagio** desunti dai dati dei casi accertati dopo un tampone (quindi in ritardo di 5-16 giorni sul reale singolo contagio) e **correlazione fra lockdown e diminuzione dei casi.**
+
 [Video di 3Blue1Brown](https://youtu.be/Kas0tIxDvrg) in merito a crescite esponenziali e pandemie
 
 [Video di MinutePhysics](https://youtu.be/54XLXg4fYsc) in merito a crescite esponenziali e pandemie
